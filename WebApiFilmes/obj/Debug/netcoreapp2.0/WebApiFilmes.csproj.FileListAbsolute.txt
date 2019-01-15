@@ -1,0 +1,11 @@
+C:\Workspace\WebApiFilmes\WebApiFilmes\bin\Debug\netcoreapp2.0\WebApiFilmes.deps.json
+C:\Workspace\WebApiFilmes\WebApiFilmes\bin\Debug\netcoreapp2.0\WebApiFilmes.runtimeconfig.json
+C:\Workspace\WebApiFilmes\WebApiFilmes\bin\Debug\netcoreapp2.0\WebApiFilmes.runtimeconfig.dev.json
+C:\Workspace\WebApiFilmes\WebApiFilmes\bin\Debug\netcoreapp2.0\WebApiFilmes.dll
+C:\Workspace\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.0\WebApiFilmes.csprojAssemblyReference.cache
+C:\Workspace\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.0\WebApiFilmes.csproj.CoreCompileInputs.cache
+C:\Workspace\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.0\WebApiFilmes.AssemblyInfoInputs.cache
+C:\Workspace\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.0\WebApiFilmes.AssemblyInfo.cs
+C:\Workspace\WebApiFilmes\WebApiFilmes\bin\Debug\netcoreapp2.0\WebApiFilmes.pdb
+C:\Workspace\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.0\WebApiFilmes.dll
+C:\Workspace\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.0\WebApiFilmes.pdb
